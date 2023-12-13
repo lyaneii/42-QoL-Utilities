@@ -1,2 +1,2 @@
-# Headeryfactor
-Update existing and/or add new function prototypes to a header file.
+# 42 QoL Utilities
+Scripts to help a little bit with some tedious tasks.
